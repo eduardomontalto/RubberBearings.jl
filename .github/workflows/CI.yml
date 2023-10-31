@@ -19,6 +19,10 @@ jobs:
       fail-fast: false
       matrix:
         version:
+<<<<<<< HEAD
+=======
+          - '1.1'
+>>>>>>> 88843738259c766931ac907bf814aa8552cfbb7f
           - '1.7'
           - 'nightly'
         os:
