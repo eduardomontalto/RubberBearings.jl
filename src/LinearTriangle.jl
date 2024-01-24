@@ -1,4 +1,3 @@
-module LinearTriangle
 
 # Write your package code here.
 # ----------LINEAR TRIANGULAR ELEMENT----------
@@ -118,4 +117,4 @@ function meso_solver(p::AbstractArray{Float64},t::AbstractArray{Int},nfix::Vecto
     u = A\b
     return u
 end;
-end
+

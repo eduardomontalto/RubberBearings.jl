@@ -1,4 +1,3 @@
-module Loading
 # ---------- LOADING FUNCTION ----------
 #=
 INPUT:
@@ -53,4 +52,3 @@ elseif params.cs == "annular"
 end
 return fw
 end;
-end

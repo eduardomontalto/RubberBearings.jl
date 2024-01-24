@@ -1,4 +1,3 @@
-module RectangeHoleTriangleElement
 #Mesh
 G = 0.4
 K = 2000
@@ -161,4 +160,3 @@ for step in 1:20:lstep
 end;
 
 
-end

@@ -1,4 +1,3 @@
-module TriangularElement
 # ---------- INTEGRATE TRIANGULAR ELEMENT ----------
 #= 
 INPUT:
@@ -125,4 +124,3 @@ ks[:,1] = (s2 - s1)./(2*Δε)
 ks[:,3] = (s4 - s3)./(2*Δκy)
 return s, ks
 end;
-end

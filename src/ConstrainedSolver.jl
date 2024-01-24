@@ -1,4 +1,3 @@
-module ConstrainedSolver
 # ---------- CONSTRAINED SCREENED POISSON SOLVER ----------
 #=
 INPUT:
@@ -38,4 +37,3 @@ end
 return u, λ
 end;
 
-end

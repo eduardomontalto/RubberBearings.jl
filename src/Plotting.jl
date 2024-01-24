@@ -1,4 +1,3 @@
-module Plotting
 # ---------- PLOTTING FUNCTION ----------
 #=
 INPUT:
@@ -36,4 +35,3 @@ else
 end
 plt.draw()
 end;
-end
